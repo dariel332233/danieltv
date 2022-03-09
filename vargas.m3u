@@ -1,0 +1,9 @@
+#EXTM3U
+
+#EXTINF:-1 , TELEMICRO 5
+
+https://playback.akamaized.net/streams/27456795_8825585_lsibpd9fh0ehyt76ai1_1/media/27456795_8825585_lsibpd9fh0ehyt76ai1_1@5256000pb.m3u8?dw=14400&ts=1646859600&hdnts=exp=1647032980~acl=/streams/27456795_8825585_lsibpd9fh0ehyt76ai1_1/media*~hmac=f83aa1368caf01083b3a92fe04f468c497220be1b9eb3f84d5a7af18ade54717
+
+#EXTINF:-1 , COLOR VISION
+
+https://stream-04.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RYzdFGUCKaHTCBfc6oPco5AI)/dm/3/x7gy059/d/live-3.m3u8#cell=lnyc
